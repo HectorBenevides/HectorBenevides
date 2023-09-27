@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HectorBenevides
-- 👀 I’m interested in: Novos desafios.
-- 🌱 I’m currently learning: HTML, CSS 3, JavaScript, React.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Node.js, React.
 - 📫 How to reach me Email: hectorsilva@hotmail.com.br   Tel: (11) 961185688
 
 <!---
