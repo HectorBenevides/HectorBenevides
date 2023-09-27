@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HectorBenevides
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, Node.js, React.
+- 💻 Estudo Desenvolvimento De Sistemas na Etec SP
 - 📫 How to reach me Email: hectorsilva@hotmail.com.br   Tel: (11) 961185688
 
 <!---
