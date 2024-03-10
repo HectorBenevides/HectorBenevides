@@ -1,4 +1,4 @@
-👋 Olá! Sou um entusiasta apaixonado pela tecnologia que está embarcando em uma emocionante jornada de transição de carreira para o mundo da programação. Com um histórico sólido de estudo e dedicação, estou pronto para abraçar uma oportunidade desafiadora como desenvolvedor web.
+👋 Olá! Sou um entusiasta apaixonado pela tecnologia estou embarcando em uma emocionante jornada de transição de carreira para o mundo da programação. Com um histórico sólido de estudo e dedicação, estou pronto para abraçar uma oportunidade desafiadora como desenvolvedor web.
 
 💼 Possuo habilidades sólidas em HTML, CSS, JavaScript, SQL e React, obtidas através de uma combinação de auto-estudo diligente e cursos especializados. Estou constantemente buscando expandir meu conhecimento e aprimorar minhas habilidades técnicas para me tornar um desenvolvedor excepcional.
 
