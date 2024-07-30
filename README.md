@@ -1,13 +1,24 @@
-👋 Olá! Sou um entusiasta apaixonado pela tecnologia estou embarcando em uma emocionante jornada de transição de carreira para o mundo da programação. Com um histórico sólido de estudo e dedicação, estou pronto para abraçar uma oportunidade desafiadora como desenvolvedor web.
+## Olá! Eu sou o Hector Benevides 🖐️
 
-💼 Possuo habilidades sólidas em HTML, CSS, JavaScript, SQL e React, obtidas através de uma combinação de auto-estudo diligente e cursos especializados. Estou constantemente buscando expandir meu conhecimento e aprimorar minhas habilidades técnicas para me tornar um desenvolvedor excepcional.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorbenevides/)
 
-🎓 Além de minha paixão pela codificação, trago uma mentalidade de aprendizado contínuo e uma ética de trabalho impecável para qualquer equipe. Sou proativo, colaborativo e estou sempre disposto a enfrentar desafios de frente.
 
-🔍 Atualmente, estou procurando minha primeira oportunidade no campo da tecnologia, onde possa aplicar meu conjunto de habilidades e contribuir significativamente para projetos inovadores. Estou aberto a oportunidades de estágio, freelance ou emprego em tempo integral.
+## Tecnologias que eu uso no meu dia
 
-Se você procura um desenvolvedor comprometido, motivado e ansioso para aprender, adoraria agregar valor à sua equipe ou projeto. Vamos construir algo incrível juntos! 🚀
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="mysql" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white/>
+   <img align="center" alt="aws" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white/> 
+    <img align="center" alt="figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+    /> 
 
-📫 Como entrar em contato comigo E-mail: hectorsilva@hotmail.com.br Tel: (11) 961185688
+  
+</div><br/>
 
+### Apaixonado por tecnologia e programação.
 
